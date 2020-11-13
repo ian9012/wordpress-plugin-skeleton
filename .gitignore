@@ -1,0 +1,5 @@
+.idea/
+Makefile
+plugins/
+scripts/
+wp-unit-tests/
