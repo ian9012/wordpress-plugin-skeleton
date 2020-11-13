@@ -1,4 +1,4 @@
-Setup WP + plugins skeleton
+## Setup Guide
 
 1. Create a folder `plugins` in project root
 2. Add plugin source folder in the `plugins` folder created in step 1 . E.g https://github.com/yellowtree/geoip-detect, clone the repo to the plugins folder
